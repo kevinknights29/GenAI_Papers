@@ -55,6 +55,7 @@ NOTE: not in a particular order.
 28. [Improved Baselines with Visual Instruction Tuning](https://arxiv.org/pdf/2310.03744.pdf)
 29. [Direct Preference Optimization: Your Language Model is Secretly a Reward Model](https://arxiv.org/pdf/2305.18290.pdf)
 30. [Distil-Whisper: Robust Knowledge Distilation via Large-Scale Pseudo Labelling](https://github.com/huggingface/distil-whisper/blob/main/Distil_Whisper.pdf)
+31. [Reading Books is Great, But Not if You Are Driving! Visually Grounded Reasoning about Defeasible Commonsense Norms](https://arxiv.org/pdf/2310.10418.pdf)
 
 
 ## Learning Logs
