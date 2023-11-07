@@ -49,6 +49,70 @@ The GenAI field is situated at the intersection of multiple disciplines. It leve
 
 NOTE: not in a particular order.
 
+### Clustering
+
+#### Language Models & General AI
+
+Papers: 1, 10, 11, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 31, 34, 35, 36, 37, 38.
+
+These papers involve language models, their applications, ethical considerations, and various improvements in their training or functionality.
+
+#### Vision & Language Integration
+
+Papers: 2, 3, 4, 7, 29, 30, 33.
+
+These focus on integrating visual data with language models, including vision transformers, image synthesis, and text-to-image personalization.
+
+#### Attention Mechanisms & Transformers
+
+Papers: 8, 9, 25, 28.
+
+They discuss the theoretical aspects of attention in deep learning and methods to optimize transformer models.
+
+#### Music & Creative AI
+
+Paper: 5.
+
+This paper seems unique in its focus on music generation using AI.
+
+#### High-Resolution Image Synthesis
+
+Papers: 6, 7.
+
+These involve image synthesis with high resolution, discussing diffusion models and vision transformers.
+
+#### Efficiency & Scaling in AI
+
+Papers: 2, 25, 26, 27, 28.
+
+They cover efficiency in AI, whether in terms of memory, inference, or the scaling of AI models.
+
+#### Environmental Impact of AI
+
+Paper: 12.
+
+This paper is unique in its focus on the environmental impact of AI systems.
+
+#### Dialog & Interaction-Focused AI
+
+Papers: 13, 24, 34, 35, 36, 37.
+
+These involve dialogue applications, interactive language models, and platforms for language agents.
+
+#### AI Enhancement & Meta-Learning
+
+Papers: 27, 31, 32, 37.
+
+These papers are about improving AI's capabilities through self-improvement techniques, preference optimization, and distillation processes.
+
+#### Miscellaneous AI Applications
+
+Papers: 29, 30, 33.
+
+These papers seem to discuss AI applications in more niche or specific contexts, like defeasible commonsense norms and visual instruction tuning.
+
+### Complete List
+
 1. [Enhancing CLIP with GPT-4: Harnessing Visual Descriptions as Prompts](https://browse.arxiv.org/pdf/2307.11661.pdf)
 2. [EfficientViT: Memory Efficient Vision Transformer with Cascaded Group Attention](https://arxiv.org/pdf/2305.07027.pdf)
 3. [Key-Locked Rank One Editing for Text-to-Image Personalization](https://browse.arxiv.org/pdf/2305.01644.pdf)
