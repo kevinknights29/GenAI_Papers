@@ -49,67 +49,20 @@ The GenAI field is situated at the intersection of multiple disciplines. It leve
 
 NOTE: not in a particular order.
 
-### Clustering
+### Classification
 
-#### Language Models & General AI
-
-Papers: 1, 10, 11, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 31, 34, 35, 36, 37, 38.
-
-These papers involve language models, their applications, ethical considerations, and various improvements in their training or functionality.
-
-#### Vision & Language Integration
-
-Papers: 2, 3, 4, 7, 29, 30, 33.
-
-These focus on integrating visual data with language models, including vision transformers, image synthesis, and text-to-image personalization.
-
-#### Attention Mechanisms & Transformers
-
-Papers: 8, 9, 25, 28.
-
-They discuss the theoretical aspects of attention in deep learning and methods to optimize transformer models.
-
-#### Music & Creative AI
-
-Paper: 5.
-
-This paper seems unique in its focus on music generation using AI.
-
-#### High-Resolution Image Synthesis
-
-Papers: 6, 7.
-
-These involve image synthesis with high resolution, discussing diffusion models and vision transformers.
-
-#### Efficiency & Scaling in AI
-
-Papers: 2, 25, 26, 27, 28.
-
-They cover efficiency in AI, whether in terms of memory, inference, or the scaling of AI models.
-
-#### Environmental Impact of AI
-
-Paper: 12.
-
-This paper is unique in its focus on the environmental impact of AI systems.
-
-#### Dialog & Interaction-Focused AI
-
-Papers: 13, 24, 34, 35, 36, 37.
-
-These involve dialogue applications, interactive language models, and platforms for language agents.
-
-#### AI Enhancement & Meta-Learning
-
-Papers: 27, 31, 32, 37.
-
-These papers are about improving AI's capabilities through self-improvement techniques, preference optimization, and distillation processes.
-
-#### Miscellaneous AI Applications
-
-Papers: 29, 30, 33.
-
-These papers seem to discuss AI applications in more niche or specific contexts, like defeasible commonsense norms and visual instruction tuning.
+| Category | Papers | Description |
+|----------|--------|-------------|
+| Language Models & General AI | 1, 10, 11, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 31, 34, 35, 36, 37, 38 | Papers related to language models, their applications, ethical considerations, and improvements in training or functionality. |
+| Vision & Language Integration | 2, 3, 4, 7, 29, 30, 33 | Focusing on the integration of visual data with language models, including vision transformers and text-to-image personalization. |
+| Attention Mechanisms & Transformers | 8, 9, 25, 28 | Discussing the theory of attention in deep learning and optimization of transformer models. |
+| Music & Creative AI | 5 | A unique paper on music generation using AI. |
+| High-Resolution Image Synthesis | 6, 7 | Discussing high-resolution image synthesis using diffusion models and vision transformers. |
+| Efficiency & Scaling in AI | 2, 25, 26, 27, 28 | Covering AI efficiency in terms of memory, inference, and scaling. |
+| Environmental Impact of AI | 12 | A unique paper focusing on the environmental impact of AI systems. |
+| Dialog & Interaction-Focused AI | 13, 24, 34, 35, 36, 37 | Involving dialogue applications and platforms for interactive language agents. |
+| AI Enhancement & Meta-Learning | 27, 31, 32, 37 | On improving AI capabilities through self-improvement, preference optimization, and distillation. |
+| Miscellaneous AI Applications | 29, 30, 33 | Discussing niche AI applications like commonsense norms and visual instruction tuning. |
 
 ### Complete List
 
