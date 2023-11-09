@@ -60,7 +60,7 @@ NOTE: not in a particular order.
 | High-Resolution Image Synthesis | 6, 7 | Discussing high-resolution image synthesis using diffusion models and vision transformers. |
 | Efficiency & Scaling in AI | 2, 25, 26, 27, 28 | Covering AI efficiency in terms of memory, inference, and scaling. |
 | Environmental Impact of AI | 12 | A unique paper focusing on the environmental impact of AI systems. |
-| Dialog & Interaction-Focused AI | 13, 24, 34, 35, 36, 37 | Involving dialogue applications and platforms for interactive language agents. |
+| Dialog & Interaction-Focused AI | 13, 24, 34, 35, 36, 37, 39 | Involving dialogue applications and platforms for interactive language agents. |
 | AI Enhancement & Meta-Learning | 27, 31, 32, 37 | On improving AI capabilities through self-improvement, preference optimization, and distillation. |
 | Miscellaneous AI Applications | 29, 30, 33 | Discussing niche AI applications like commonsense norms and visual instruction tuning. |
 
@@ -104,6 +104,7 @@ NOTE: not in a particular order.
 36. [InstructRetro: Instruction Tuning post Retrieval-Augmented Pretraining](https://arxiv.org/pdf/2310.07713.pdf)
 37. [OpenAgents: An Open Platform for Language Agents in the Wild](https://arxiv.org/pdf/2310.10634.pdf)
 38. [Large Language Models Understand and Can be Enhanced by Emotional Stimuli](https://arxiv.org/pdf/2307.11760.pdf)
+39. [Communicative Agents for Software Development](https://arxiv.org/pdf/2307.07924v3.pdf)
 
 ## Learning Logs
 
