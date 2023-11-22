@@ -105,6 +105,10 @@ NOTE: not in a particular order.
 37. [OpenAgents: An Open Platform for Language Agents in the Wild](https://arxiv.org/pdf/2310.10634.pdf)
 38. [Large Language Models Understand and Can be Enhanced by Emotional Stimuli](https://arxiv.org/pdf/2307.11760.pdf)
 39. [Communicative Agents for Software Development](https://arxiv.org/pdf/2307.07924v3.pdf)
+40. [Large Language Models Are Human-Level Prompt Engineers](https://arxiv.org/pdf/2211.01910.pdf)
+41. [Least-to-Most Prompting Enables Complex Reasoning in Large Language Models](https://arxiv.org/abs/2205.10625)
+42. [Self-Consistency Improves Chain of Thought Reasoning in Language Models](https://arxiv.org/abs/2203.11171.pdf)
+43. [Language Models can be Logical Solvers](https://arxiv.org/pdf/2311.06158.pdf)
 
 ## Learning Logs
 
