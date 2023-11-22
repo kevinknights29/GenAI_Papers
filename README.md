@@ -109,6 +109,7 @@ NOTE: not in a particular order.
 41. [Least-to-Most Prompting Enables Complex Reasoning in Large Language Models](https://arxiv.org/abs/2205.10625)
 42. [Self-Consistency Improves Chain of Thought Reasoning in Language Models](https://arxiv.org/abs/2203.11171.pdf)
 43. [Language Models can be Logical Solvers](https://arxiv.org/pdf/2311.06158.pdf)
+44. [Lost in the Middle: How Language Models Use Long Contexts](https://arxiv.org/pdf/2307.03172.pdf)
 
 ## Learning Logs
 
