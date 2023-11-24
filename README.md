@@ -110,6 +110,7 @@ NOTE: not in a particular order.
 42. [Self-Consistency Improves Chain of Thought Reasoning in Language Models](https://arxiv.org/abs/2203.11171.pdf)
 43. [Language Models can be Logical Solvers](https://arxiv.org/pdf/2311.06158.pdf)
 44. [Lost in the Middle: How Language Models Use Long Contexts](https://arxiv.org/pdf/2307.03172.pdf)
+45. [Contrastive Chain-of-Thought Prompting](https://arxiv.org/abs/2311.09277)
 
 ## Learning Logs
 
