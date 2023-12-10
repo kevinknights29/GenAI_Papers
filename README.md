@@ -111,6 +111,7 @@ NOTE: not in a particular order.
 43. [Language Models can be Logical Solvers](https://arxiv.org/pdf/2311.06158.pdf)
 44. [Lost in the Middle: How Language Models Use Long Contexts](https://arxiv.org/pdf/2307.03172.pdf)
 45. [Contrastive Chain-of-Thought Prompting](https://arxiv.org/pdf/2311.09277.pdf)
+46. [RankZephyr: Effective and Robust Zero-Shot Listwise Reranking is a Breeze!](https://arxiv.org/pdf/2312.02724.pdf)
 
 ## Learning Logs
 
