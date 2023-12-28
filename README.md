@@ -113,6 +113,7 @@ NOTE: not in a particular order.
 45. [Contrastive Chain-of-Thought Prompting](https://arxiv.org/pdf/2311.09277.pdf)
 46. [RankZephyr: Effective and Robust Zero-Shot Listwise Reranking is a Breeze!](https://arxiv.org/pdf/2312.02724.pdf)
 47. [LLM in a flash: Efficient Large Language Model Inference with Limited Memory](https://arxiv.org/pdf/2312.11514.pdf)
+48. [PowerInfer: Fast Large Language Model Serving with a Consumer-grade GPU](https://ipads.se.sjtu.edu.cn/_media/publications/powerinfer-20231219.pdf)
 
 ## Learning Logs
 
