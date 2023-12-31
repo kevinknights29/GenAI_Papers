@@ -117,6 +117,7 @@ NOTE: not in a particular order.
 49. [Human Centered Loss Functions (HALOs)](https://github.com/ContextualAI/HALOs/blob/main/assets/report.pdf)
 50. [A Challenger to GPT-4V? Early Explorations of Gemini in Visual Expertise](https://arxiv.org/pdf/2312.12436.pdf)
 51. [Distributed Inference and Fine-tuning of Large Language Models Over The Internet](https://arxiv.org/pdf/2312.08361.pdf)
+52. [GAIA: Zero-shot Talking Avatar Generation](https://arxiv.org/pdf/2311.15230.pdf)
 
 ## Learning Logs
 
