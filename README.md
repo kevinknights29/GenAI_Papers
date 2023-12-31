@@ -115,6 +115,7 @@ NOTE: not in a particular order.
 47. [LLM in a flash: Efficient Large Language Model Inference with Limited Memory](https://arxiv.org/pdf/2312.11514.pdf)
 48. [PowerInfer: Fast Large Language Model Serving with a Consumer-grade GPU](https://ipads.se.sjtu.edu.cn/_media/publications/powerinfer-20231219.pdf)
 49. [Human Centered Loss Functions (HALOs)](https://github.com/ContextualAI/HALOs/blob/main/assets/report.pdf)
+50. [A Challenger to GPT-4V? Early Explorations of Gemini in Visual Expertise](https://arxiv.org/pdf/2312.12436.pdf)
 
 ## Learning Logs
 
