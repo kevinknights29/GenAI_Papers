@@ -119,6 +119,7 @@ NOTE: not in a particular order.
 51. [Distributed Inference and Fine-tuning of Large Language Models Over The Internet](https://arxiv.org/pdf/2312.08361.pdf)
 52. [GAIA: Zero-shot Talking Avatar Generation](https://arxiv.org/pdf/2311.15230.pdf)
 53. [SLEEPER AGENTS: TRAINING DECEPTIVE LLMS THAT PERSIST THROUGH SAFETY TRAINING](https://arxiv.org/pdf/2401.05566.pdf)
+54. [LLMLingua: Compressing Prompts for Accelerated Inference of Large Language Models](https://arxiv.org/pdf/2310.05736.pdf)
 
 ## Learning Logs
 
