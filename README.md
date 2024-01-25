@@ -120,6 +120,8 @@ NOTE: not in a particular order.
 52. [GAIA: Zero-shot Talking Avatar Generation](https://arxiv.org/pdf/2311.15230.pdf)
 53. [SLEEPER AGENTS: TRAINING DECEPTIVE LLMS THAT PERSIST THROUGH SAFETY TRAINING](https://arxiv.org/pdf/2401.05566.pdf)
 54. [LLMLingua: Compressing Prompts for Accelerated Inference of Large Language Models](https://arxiv.org/pdf/2310.05736.pdf)
+55. [Foundations of Vector Retrieval](https://arxiv.org/pdf/2401.09350.pdf)
+56. [Self-Rewarding Language Models](https://arxiv.org/pdf/2401.10020.pdf)
 
 ## Learning Logs
 
