@@ -136,6 +136,11 @@ NOTE: not in a particular order.
 68. [RAG vs Fine-tuning: Pipelines, Tradeoffs, and a Case Study on Agriculture](https://arxiv.org/pdf/2401.08406.pdf)
 69. [Training language models to follow instructions with human feedback](https://arxiv.org/pdf/2203.02155.pdf)
 70. [Spotting LLMs With Binoculars: Zero-Shot Detection of Machine-Generated Text](https://arxiv.org/pdf/2401.12070.pdf)
+71. [Sparse Networks from Scratch: Faster Training without Losing Performance](https://arxiv.org/pdf/1907.04840.pdf)
+72. [ZeRO: Memory Optimizations Toward Training Trillion Parameter Models](https://arxiv.org/pdf/1910.02054.pdf)
+73. [Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity](https://arxiv.org/pdf/2101.03961.pdf)
+74. [DeepSeekMoE: Towards Ultimate Expert Specialization in Mixture-of-Experts Language Models](https://arxiv.org/pdf/2401.06066.pdf)
+75. [MoE-Mamba: Efficient Selective State Space Models with Mixture of Experts](https://arxiv.org/pdf/2401.04081.pdf)
 
 ## Learning Logs
 
