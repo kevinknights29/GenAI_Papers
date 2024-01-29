@@ -126,13 +126,16 @@ NOTE: not in a particular order.
 58. [Mistral 7B](https://arxiv.org/pdf/2310.06825.pdf)
 59. [Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer](https://arxiv.org/pdf/1701.06538.pdf)
 60. [MegaBlocks: Efficient Sparse Training with Mixture-of-Experts](https://arxiv.org/pdf/2211.15841.pdf)
-61. [Mixture-of-Experts Meets Instruction Tuning:A Winning Combination for Large Language Models](https://arxiv.org/pdf/2305.14705.pdf)
+61. [Mixture-of-Experts Meets Instruction Tuning: A Winning Combination for Large Language Models](https://arxiv.org/pdf/2305.14705.pdf)
 62. [Orca 2: Teaching Small Language Models How to Reason](https://arxiv.org/pdf/2311.11045.pdf)
 63. [ConvNets Match Vision Transformers at Scale](https://arxiv.org/pdf/2310.16764.pdf)
 64. [Emu Video: Factorizing Text-to-Video Generation by Explicit Image Conditioning](https://arxiv.org/pdf/2311.10709.pdf)
 65. [Pythia: A Suite for Analyzing Large Language Models Across Training and Scaling](https://arxiv.org/pdf/2304.01373.pdf)
 66. [Llama 2: Open Foundation and Fine-Tuned Chat Models](https://arxiv.org/pdf/2307.09288.pdf)
 67. [QLoRA: Efficient Finetuning of Quantized LLMs](https://arxiv.org/pdf/2305.14314.pdf)
+68. [RAG vs Fine-tuning: Pipelines, Tradeoffs, and a Case Study on Agriculture](https://arxiv.org/pdf/2401.08406.pdf)
+69. [Training language models to follow instructions with human feedback](https://arxiv.org/pdf/2203.02155.pdf)
+70. [Spotting LLMs With Binoculars: Zero-Shot Detection of Machine-Generated Text](https://arxiv.org/pdf/2401.12070.pdf)
 
 ## Learning Logs
 
