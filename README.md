@@ -141,6 +141,7 @@ NOTE: not in a particular order.
 73. [Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity](https://arxiv.org/pdf/2101.03961.pdf)
 74. [DeepSeekMoE: Towards Ultimate Expert Specialization in Mixture-of-Experts Language Models](https://arxiv.org/pdf/2401.06066.pdf)
 75. [MoE-Mamba: Efficient Selective State Space Models with Mixture of Experts](https://arxiv.org/pdf/2401.04081.pdf)
+76. [Code Llama: Open Foundation Models for Code](https://scontent.fpac4-1.fna.fbcdn.net/v/t39.2365-6/369856151_1754812304950972_1159666448927483931_n.pdf?_nc_cat=107&ccb=1-7&_nc_sid=3c67a6&_nc_ohc=XDhDRw2RiP8AX_JzqMR&_nc_ht=scontent.fpac4-1.fna&oh=00_AfB003nd4Kls4aOSwchgL5F3cvbIRRkGF5VxjgQOnn_WWw&oe=65BE508F)
 
 ## Learning Logs
 
