@@ -26,7 +26,7 @@ This compendium serves as a resource for scholars, practitioners, and enthusiast
 The primary goals of this repository are:
 
 1. **Knowledge Consolidation**: To centralize seminal and cutting-edge research papers that define and advance the GenAI field.
-2. **Community Collaboration**: To foster a collaborative environment where ideas and findings can be shared, discussed, and critiqued by the GenAI research community.
+2. **Community Collaboration**: To foster a collaborative environment where ideas and findings can be shared, discussed, and critiqued by the Gen AI research community.
 3. **Innovation Promotion**: To inspire and guide new research initiatives and practical applications of GenAI technologies.
 4. **Interdisciplinary Integration**: To encourage the cross-pollination of ideas from diverse fields such as computer science, cognitive psychology, and digital arts to enrich the GenAI research.
 
@@ -144,6 +144,7 @@ NOTE: not in a particular order.
 76. [Code Llama: Open Foundation Models for Code](https://scontent.fpac4-1.fna.fbcdn.net/v/t39.2365-6/369856151_1754812304950972_1159666448927483931_n.pdf?_nc_cat=107&ccb=1-7&_nc_sid=3c67a6&_nc_ohc=XDhDRw2RiP8AX_JzqMR&_nc_ht=scontent.fpac4-1.fna&oh=00_AfB003nd4Kls4aOSwchgL5F3cvbIRRkGF5VxjgQOnn_WWw&oe=65BE508F)
 77. [LLaMA Pro: Progressive LLaMA with Block Expansion](https://arxiv.org/pdf/2401.02415.pdf)
 78. [Self-Play Fine-Tuning Converts Weak Language Models to Strong Language Models](https://arxiv.org/pdf/2401.01335.pdf)
+79. [Monarch Mixer: A Simple Sub-Quadratic GEMM-Based Architecture](https://arxiv.org/pdf/2310.12109.pdf)
 
 ## Learning Logs
 
