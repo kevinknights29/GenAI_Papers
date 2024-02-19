@@ -145,6 +145,7 @@ NOTE: not in a particular order.
 77. [LLaMA Pro: Progressive LLaMA with Block Expansion](https://arxiv.org/pdf/2401.02415.pdf)
 78. [Self-Play Fine-Tuning Converts Weak Language Models to Strong Language Models](https://arxiv.org/pdf/2401.01335.pdf)
 79. [Monarch Mixer: A Simple Sub-Quadratic GEMM-Based Architecture](https://arxiv.org/pdf/2310.12109.pdf)
+80. [Large Language Model based Multi-Agents: A Survey of Progress and Challenges](https://arxiv.org/pdf/2402.01680.pdf)
 
 ## Learning Logs
 
