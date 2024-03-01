@@ -148,6 +148,7 @@ NOTE: not in a particular order.
 80. [Large Language Model based Multi-Agents: A Survey of Progress and Challenges](https://arxiv.org/pdf/2402.01680.pdf)
 81. [Retrieval-Augmented Generation for Large Language Models: A Survey](https://arxiv.org/pdf/2312.10997.pdf)
 82. [ReAugKD: Retrieval-Augmented Knowledge Distillation For Pre-trained Language Models](https://assets.amazon.science/31/1d/ce1589b74f228a19c32c73123f49/reaugkd-retrieval-augmented-knowledge-distillation-for-pre-trained-language-models.pdf)
+83. [The Era of 1-bit LLMs: All Large Language Models are in 1.58 Bits](https://arxiv.org/pdf/2402.17764.pdf)
 
 ## Learning Logs
 
