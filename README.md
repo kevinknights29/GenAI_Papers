@@ -153,6 +153,10 @@ NOTE: not in a particular order.
 85. [RAPTOR: Recursive Abstractive Processing for Tree-Organized Retrieval](https://arxiv.org/pdf/2401.18059v1.pdf)
 86. [Beyond A*: Better Planning with Transformers via Search Dynamics Bootstrapping](https://arxiv.org/abs/2402.14083)
 87. [Datasets for Large Language Models: A Comprehensive Survey](https://arxiv.org/pdf/2402.18041.pdf)
+88. [An LLM Compiler for Parallel Function Calling](https://arxiv.org/pdf/2312.04511.pdf)
+89. [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/pdf/2201.11903.pdf)
+90. [Plan-and-Solve Prompting: Improving Zero-Shot Chain-of-Thought Reasoning by Large Language Models](https://arxiv.org/pdf/2305.04091.pdf)
+91. [ReWOO: Decoupling Reasoning from Observations for Efficient Augmented Language Models](https://arxiv.org/pdf/2305.18323.pdf)
 
 ## Learning Logs
 
