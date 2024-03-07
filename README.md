@@ -157,6 +157,7 @@ NOTE: not in a particular order.
 89. [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/pdf/2201.11903.pdf)
 90. [Plan-and-Solve Prompting: Improving Zero-Shot Chain-of-Thought Reasoning by Large Language Models](https://arxiv.org/pdf/2305.04091.pdf)
 91. [ReWOO: Decoupling Reasoning from Observations for Efficient Augmented Language Models](https://arxiv.org/pdf/2305.18323.pdf)
+92. [StructLM: Towards Building Generalist Models for Structured Knowledge Grounding](https://arxiv.org/pdf/2402.16671.pdf)
 
 ## Learning Logs
 
