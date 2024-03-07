@@ -152,6 +152,7 @@ NOTE: not in a particular order.
 84. [Assisting in Writing Wikipedia-like Articles From Scratch with Large Language Models](https://arxiv.org/pdf/2402.14207.pdf)
 85. [RAPTOR: Recursive Abstractive Processing for Tree-Organized Retrieval](https://arxiv.org/pdf/2401.18059v1.pdf)
 86. [Beyond A*: Better Planning with Transformers via Search Dynamics Bootstrapping](https://arxiv.org/abs/2402.14083)
+87. [Datasets for Large Language Models: A Comprehensive Survey](https://arxiv.org/pdf/2402.18041.pdf)
 
 ## Learning Logs
 
