@@ -159,6 +159,7 @@ NOTE: not in a particular order.
 91. [ReWOO: Decoupling Reasoning from Observations for Efficient Augmented Language Models](https://arxiv.org/pdf/2305.18323.pdf)
 92. [StructLM: Towards Building Generalist Models for Structured Knowledge Grounding](https://arxiv.org/pdf/2402.16671.pdf)
 93. [A Critical Evaluation of AI Feedback for Aligning Large Language Models](https://arxiv.org/pdf/2402.12366.pdf)
+94. [Are More LLM Calls All You Need? Towards Scaling Laws of Compound Inference Systems](https://arxiv.org/pdf/2403.02419.pdf)
 
 ## Learning Logs
 
