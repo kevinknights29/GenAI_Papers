@@ -164,6 +164,12 @@ The GenAI field is situated at the intersection of multiple disciplines. It leve
 96. [Yi: Open Foundation Models by 01.AI](https://arxiv.org/pdf/2403.04652.pdf)
 97. [ORPO: Monolithic Preference Optimization without Reference Model](https://arxiv.org/pdf/2403.07691.pdf)
 98. [Do Large Language Models Understand Logic or Just Mimick Context?](https://arxiv.org/pdf/2402.12091.pdf)
+99. [Evaluating Large Language Models Trained on Code](https://arxiv.org/pdf/2107.03374.pdf)
+100. [Self-Refine: Iterative Refinement with Self-Feedback](https://openreview.net/pdf?id=S37hOerQLB)
+101. [Reflexion: Language Agents with Verbal Reinforcement Learning](https://arxiv.org/pdf/2303.11366.pdf)
+102. [MM-REACT: Prompting ChatGPT for Multimodal Reasoning and Action](https://arxiv.org/pdf/2303.11381.pdf)
+103. [HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in Hugging Face](https://arxiv.org/pdf/2303.17580.pdf)
+104. [AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation](https://arxiv.org/pdf/2308.08155.pdf)
 
 ## Learning Logs
 
