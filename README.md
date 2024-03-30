@@ -169,6 +169,7 @@ The GenAI field is situated at the intersection of multiple disciplines. It leve
 101. [Reflexion: Language Agents with Verbal Reinforcement Learning
 ](https://arxiv.org/pdf/2303.11366.pdf)
 102. [MM-REACT: Prompting ChatGPT for Multimodal Reasoning and Action](https://arxiv.org/pdf/2303.11381.pdf)
+103. [HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in Hugging Face](https://arxiv.org/pdf/2303.17580.pdf)
 
 ## Learning Logs
 
