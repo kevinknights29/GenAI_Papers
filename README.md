@@ -53,16 +53,16 @@ The GenAI field is situated at the intersection of multiple disciplines. It leve
 
 | Category | Papers | Description |
 |----------|--------|-------------|
-| Language Models & General AI | 1, 10, 11, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 31, 34, 35, 36, 37, 38 | Papers related to language models, their applications, ethical considerations, and improvements in training or functionality. |
-| Vision & Language Integration | 2, 3, 4, 7, 29, 30, 33 | Focusing on the integration of visual data with language models, including vision transformers and text-to-image personalization. |
-| Attention Mechanisms & Transformers | 8, 9, 25, 28 | Discussing the theory of attention in deep learning and optimization of transformer models. |
+| Language Models & General AI | 1, 10, 11, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 31, 34, 35, 36, 37, 38, 40, 41, 42, 43, 44, 45, 48, 54, 56, 58, 60, 66, 69, 74, 76, 79, 80, 82, 84, 86, 87, 89, 90, 92, 93, 95, 98, 99, 101, 103, 104 | Papers related to language models, their applications, ethical considerations, and improvements in training or functionality. |
+| Vision & Language Integration | 3, 4, 29, 30, 33, 64  | Focusing on the integration of visual data with language models, including vision transformers and text-to-image personalization. |
+| Attention Mechanisms & Transformers | 8, 9, 25, 28, 73 | Discussing the theory of attention in deep learning and optimization of transformer models. |
 | Music & Creative AI | 5 | A unique paper on music generation using AI. |
-| High-Resolution Image Synthesis | 6, 7 | Discussing high-resolution image synthesis using diffusion models and vision transformers. |
-| Efficiency & Scaling in AI | 2, 25, 26, 27, 28 | Covering AI efficiency in terms of memory, inference, and scaling. |
+| High-Resolution Image Synthesis | 6, 7, 63 | Discussing high-resolution image synthesis using diffusion models and vision transformers. |
+| Efficiency & Scaling in AI | 2, 25, 26, 27, 28, 59, 61, 71, 72, 83, 88, 97 | Covering AI efficiency in terms of memory, inference, and scaling. |
 | Environmental Impact of AI | 12 | A unique paper focusing on the environmental impact of AI systems. |
-| Dialog & Interaction-Focused AI | 13, 24, 34, 35, 36, 37, 39 | Involving dialogue applications and platforms for interactive language agents. |
-| AI Enhancement & Meta-Learning | 27, 31, 32, 37 | On improving AI capabilities through self-improvement, preference optimization, and distillation. |
-| Miscellaneous AI Applications | 29, 30, 33 | Discussing niche AI applications like commonsense norms and visual instruction tuning. |
+| Dialog & Interaction-Focused AI | 13, 24, 34, 35, 36, 37, 39, 53, 67, 81, 91 | Involving dialogue applications and platforms for interactive language agents. |
+| AI Enhancement & Meta-Learning | 27, 31, 32, 37, 46, 47, 49, 55, 57, 62, 65, 68, 70, 75, 78, 96 | On improving AI capabilities through self-improvement, preference optimization, and distillation. |
+| Miscellaneous AI Applications | 29, 30, 33, 50, 52, 77, 85, 94, 100, 102 | Discussing niche AI applications like commonsense norms and visual instruction tuning. |
 
 ### Complete List
 
