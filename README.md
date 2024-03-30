@@ -47,7 +47,7 @@ The GenAI field is situated at the intersection of multiple disciplines. It leve
 
 ## Research Papers
 
-NOTE: not in a particular order.
+> :memo: **Note:** Not in a particular order.
 
 ### Classification
 
