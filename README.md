@@ -168,6 +168,7 @@ The GenAI field is situated at the intersection of multiple disciplines. It leve
 100. [Self-Refine: Iterative Refinement with Self-Feedback](https://openreview.net/pdf?id=S37hOerQLB)
 101. [Reflexion: Language Agents with Verbal Reinforcement Learning
 ](https://arxiv.org/pdf/2303.11366.pdf)
+102. [MM-REACT: Prompting ChatGPT for Multimodal Reasoning and Action](https://arxiv.org/pdf/2303.11381.pdf)
 
 ## Learning Logs
 
