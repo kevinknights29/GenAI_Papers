@@ -165,6 +165,7 @@ The GenAI field is situated at the intersection of multiple disciplines. It leve
 97. [ORPO: Monolithic Preference Optimization without Reference Model](https://arxiv.org/pdf/2403.07691.pdf)
 98. [Do Large Language Models Understand Logic or Just Mimick Context?](https://arxiv.org/pdf/2402.12091.pdf)
 99. [Evaluating Large Language Models Trained on Code](https://arxiv.org/abs/2107.03374)
+100. [Self-Refine: Iterative Refinement with Self-Feedback](https://openreview.net/pdf?id=S37hOerQLB)
 
 ## Learning Logs
 
