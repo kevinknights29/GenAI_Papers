@@ -163,7 +163,7 @@ The GenAI field is situated at the intersection of multiple disciplines. It leve
 95. [Are Emergent Abilities of Large Language Models a Mirage?](https://arxiv.org/pdf/2304.15004.pdf)
 96. [Yi: Open Foundation Models by 01.AI](https://arxiv.org/pdf/2403.04652.pdf)
 97. [ORPO: Monolithic Preference Optimization without Reference Model](https://arxiv.org/pdf/2403.07691.pdf)
-98/ [Do Large Language Models Understand Logic or Just Mimick Context?](https://arxiv.org/pdf/2402.12091.pdf)
+98. [Do Large Language Models Understand Logic or Just Mimick Context?](https://arxiv.org/pdf/2402.12091.pdf)
 
 ## Learning Logs
 
