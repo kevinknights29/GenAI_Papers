@@ -172,6 +172,7 @@ The GenAI field is situated at the intersection of multiple disciplines. It leve
 104. [AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation](https://arxiv.org/pdf/2308.08155.pdf)
 105. [Megalodon: Efficient LLM Pretraining and Inference with Unlimited Context Length](https://arxiv.org/pdf/2404.08801.pdf)
 106. [A survey of Generative AI Applications](https://arxiv.org/pdf/2306.02781)
+107. [MAC-SQL: A Multi-Agent Collaborative Framework for Text-to-SQL](https://arxiv.org/pdf/2312.11242)
 
 ## Learning Logs
 
