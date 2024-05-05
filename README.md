@@ -173,6 +173,7 @@ The GenAI field is situated at the intersection of multiple disciplines. It leve
 105. [Megalodon: Efficient LLM Pretraining and Inference with Unlimited Context Length](https://arxiv.org/pdf/2404.08801.pdf)
 106. [A survey of Generative AI Applications](https://arxiv.org/pdf/2306.02781)
 107. [MAC-SQL: A Multi-Agent Collaborative Framework for Text-to-SQL](https://arxiv.org/pdf/2312.11242)
+108. [Prometheus 2: An Open Source Language Model Specialized in Evaluating Other Language Models](https://arxiv.org/pdf/2405.01535)
 
 ## Learning Logs
 
