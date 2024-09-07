@@ -181,6 +181,8 @@ The GenAI field is situated at the intersection of multiple disciplines. It leve
 113. [LLM Lies: Hallucinations are not Bugs, but Features as Adversarial Examples](https://arxiv.org/pdf/2310.01469)
 114. [Memory^3 : Language Modeling with Explicit Memory](https://arxiv.org/pdf/2407.01178)
 115. [NeuroLogic Decoding: (Un)supervised Neural Text Generation with Predicate Logic Constraints](https://aclanthology.org/2021.naacl-main.339.pdf)
+116. [LOTUS: Enabling Semantic Queries with LLMs Over Tables of Unstructured and Structured Data](https://arxiv.org/pdf/2407.11418)
+117. [Text2SQL is Not Enough: Unifying AI and Databases with TAG](https://arxiv.org/pdf/2408.14717)
 
 ## Learning Logs
 
