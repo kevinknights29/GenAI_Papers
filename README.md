@@ -176,6 +176,11 @@ The GenAI field is situated at the intersection of multiple disciplines. It leve
 108. [Prometheus 2: An Open Source Language Model Specialized in Evaluating Other Language Models](https://arxiv.org/pdf/2405.01535)
 109. [MetaGPT: Meta Programming For A Multi-Agent Collaborative Framework](https://arxiv.org/pdf/2308.00352)
 110. [Understanding Transformer Reasoning Capabilities via Graph Algorithms](https://arxiv.org/pdf/2405.18512)
+111. [Banishing LLM Hallucinations Requires Rethinking Generalization](https://arxiv.org/pdf/2406.17642)
+112. [Your Context Is Not an Array: Unveiling Random Access Limitations in Transformers](https://arxiv.org/pdf/2408.05506)
+113. [LLM Lies: Hallucinations are not Bugs, but Features as Adversarial Examples](https://arxiv.org/pdf/2310.01469)
+114. [Memory^3 : Language Modeling with Explicit Memory](https://arxiv.org/pdf/2407.01178)
+115. [NeuroLogic Decoding: (Un)supervised Neural Text Generation with Predicate Logic Constraints](https://aclanthology.org/2021.naacl-main.339.pdf)
 
 ## Learning Logs
 
