@@ -192,6 +192,12 @@ The GenAI field is situated at the intersection of multiple disciplines. It leve
 124. [Agentic Retrieval-Augmented Generation for Time Series Analysis](https://arxiv.org/pdf/2408.14484)
 125. [Reflection-Tuning: Data Recycling Improves LLM Instruction-Tuning](https://arxiv.org/pdf/2310.11716)
 126. [OLMoE: Open Mixture-of-Experts Language Models](https://arxiv.org/pdf/2409.02060)
+127. [Quiet-STaR: Language Models Can Teach Themselves to Think Before Speaking](https://arxiv.org/pdf/2403.09629)
+128. [Agent Q: Advanced Reasoning and Learning for Autonomous AI Agents](https://arxiv.org/pdf/2408.07199)
+129. [Let's Verify Step by Step](https://arxiv.org/pdf/2305.20050)
+130. [Learn Beyond The Answer: Training Language Models with Reflection for Mathematical Reasoning](https://arxiv.org/pdf/2406.12050)
+131. [V-STaR: Training Verifiers for Self-Taught Reasoners](https://arxiv.org/pdf/2402.06457)
+132. [Agent Workflow Memory](https://arxiv.org/pdf/2409.07429)
 
 ## Learning Logs
 
