@@ -183,6 +183,15 @@ The GenAI field is situated at the intersection of multiple disciplines. It leve
 115. [NeuroLogic Decoding: (Un)supervised Neural Text Generation with Predicate Logic Constraints](https://aclanthology.org/2021.naacl-main.339.pdf)
 116. [LOTUS: Enabling Semantic Queries with LLMs Over Tables of Unstructured and Structured Data](https://arxiv.org/pdf/2407.11418)
 117. [Text2SQL is Not Enough: Unifying AI and Databases with TAG](https://arxiv.org/pdf/2408.14717)
+118. [Chain-of-Thought Reasoning Without Prompting](https://arxiv.org/pdf/2402.10200)
+119. [Chain of Thought Empowers Transformers to Solve Inherently Serial Problems](https://arxiv.org/pdf/2402.12875)
+120. [Premise Order Matters in Reasoning with Large Language Models](https://arxiv.org/pdf/2402.08939)
+121. [Teaching Large Language Models to Self-Debug](https://arxiv.org/pdf/2304.05128)
+122. [SciAgents: Automating scientific discovery through multi-agent intelligent graph reasoning](https://arxiv.org/pdf/2409.05556)
+123. [Gemini 1.5: Unlocking multimodal understanding across millions of tokens of context](https://arxiv.org/pdf/2403.05530)
+124. [Agentic Retrieval-Augmented Generation for Time Series Analysis](https://arxiv.org/pdf/2408.14484)
+125. [Reflection-Tuning: Data Recycling Improves LLM Instruction-Tuning](https://arxiv.org/pdf/2310.11716)
+126. [OLMoE: Open Mixture-of-Experts Language Models](https://arxiv.org/pdf/2409.02060)
 
 ## Learning Logs
 
