@@ -198,6 +198,12 @@ The GenAI field is situated at the intersection of multiple disciplines. It leve
 130. [Learn Beyond The Answer: Training Language Models with Reflection for Mathematical Reasoning](https://arxiv.org/pdf/2406.12050)
 131. [V-STaR: Training Verifiers for Self-Taught Reasoners](https://arxiv.org/pdf/2402.06457)
 132. [Agent Workflow Memory](https://arxiv.org/pdf/2409.07429)
+133. [Conversational Text-To-SQL: An Odyssey Into State-of-the-art And Challenges Ahead](https://assets.amazon.science/06/42/450f375148feb5b237be0e132bad/conversational-text-to-sql-an-odyssey-into-state-of-the-art-and-challenges-ahead.pdf)
+134. [Guiding LLMs The Right Way: Fast, Non-Invasive Constrained Generation](https://arxiv.org/pdf/2403.06988v1)
+135. [Enhancing Few-shot Text-to-SQL Capabilities of Large Language Models: A Study on Prompt Design Strategies](https://arxiv.org/pdf/2305.12586)
+136. [Efficient schema-less text-to-SQL conversion using large language models](https://api-journal.accscience.com/journal/article/preview?doi=10.36922/aih.2661)
+137. [SQL-to-Schema Enhances Schema Linking in Text-to-SQL](https://arxiv.org/pdf/2405.09593)
+138. [CodeS: Towards Building Open-source Language Models for Text-to-SQL](https://arxiv.org/pdf/2402.16347v1)
 
 ## Learning Logs
 
