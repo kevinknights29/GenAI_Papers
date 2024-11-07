@@ -204,6 +204,10 @@ The GenAI field is situated at the intersection of multiple disciplines. It leve
 136. [Efficient schema-less text-to-SQL conversion using large language models](https://api-journal.accscience.com/journal/article/preview?doi=10.36922/aih.2661)
 137. [SQL-to-Schema Enhances Schema Linking in Text-to-SQL](https://arxiv.org/pdf/2405.09593)
 138. [CodeS: Towards Building Open-source Language Models for Text-to-SQL](https://arxiv.org/pdf/2402.16347v1)
+139. [A Theoretical Understanding of Chain-of-Thought: Coherent Reasoning and Error-Aware Demonstration](https://arxiv.org/pdf/2410.16540)
+140. [Principled Instructions Are All You Need for Questioning LLaMA-1/2, GPT-3.5/4](https://arxiv.org/pdf/2312.16171v2)
+141. [Steering Large Language Models between Code Execution and Textual Reasoning](https://arxiv.org/pdf/2410.03524)
+142. [Paired Open-Ended Trailblazer (POET): Endlessly Generating Increasingly Complex and Diverse Learning Environments and Their Solutions](https://arxiv.org/pdf/1901.01753)
 
 ## Learning Logs
 
